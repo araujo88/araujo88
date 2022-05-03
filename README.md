@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujo88" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujo88&hide=css,scss,html" />
 </div>
 <hr />
 
