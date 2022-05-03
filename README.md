@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🔭  I’m currently working with C, C++ and C# along with Oracle SQL database in the banking/finance sector.
 - 🌱  I’m currently learning Docker, Node.js, Java, ethical hacking and design patterns.
 - 💬  Ask me about C and Python.
+- ⚡ Fun fact: I have a degree in civil engineering, MSc. degree in fluid dynamics and I'm a musician in the spare time.
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=araujo88&layout=compact&show_icons=true&theme=dark" />
