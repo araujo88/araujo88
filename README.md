@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 💻 Back-end developer
+### 💻 Back-end developer
 
-- 🔭 I’m currently working with C, C++ and C# along with Oracle SQL database in the banking/finance sector.
-- 🌱 I’m currently learning Docker, Node.js, Java, ethical hacking and design patterns.
-- 💬 Ask me about C and Python.
+- 🔭  I’m currently working with C, C++ and C# along with Oracle SQL database in the banking/finance sector.
+- 🌱  I’m currently learning Docker, Node.js, Java, ethical hacking and design patterns.
+- 💬  Ask me about C and Python.
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=araujo88&layout=compact&show_icons=true&theme=radical" />
