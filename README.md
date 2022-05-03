@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - 💬  Ask me about C and Python.
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=araujo88&layout=compact&show_icons=true&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api?username=araujo88&layout=compact&show_icons=true&theme=dark" />
 </div>
 <br>
 <div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujo88&hide=css,scss,html" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujo88&theme=dark&hide=css,scss,html" />
 </div>
 <hr />
 
