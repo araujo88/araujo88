@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### 💻 Back-end developer
 
 - 🔭 I’m currently working with C, C++ and C# along with Oracle SQL database in the banking/finance sector.
-- 🌱 I’m currently learning Docker, Node.js, Java and ethical hacking.
+- 🌱 I’m currently learning Docker, Node.js, Java, ethical hacking and design patterns.
 - 💬 Ask me about C and Python.
 
 <div>
