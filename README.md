@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### 💻 Back-end developer
 
-- 🔭  I’m currently working with C, C++ and C# along with Oracle SQL database in the banking/finance sector.
 - 💬  Ask me about C and Python.
 - ⚡ Fun fact: I have a degree in civil engineering, MSc. degree in fluid dynamics and I'm a musician in the spare time.
 
