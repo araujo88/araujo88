@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💻 Back-end developer
+### 💻 Backend developer
 
 - 🔭 I’m currently working on a secure password generator API.
 - 💬  Ask me about C and Python.
