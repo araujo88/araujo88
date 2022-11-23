@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 💻 Back-end developer
 
-- 🔭 I’m currently working on a web-based password manager.
+- 🔭 I’m currently working on a secure password generator API.
 - 💬  Ask me about C and Python.
 - ⚡ Fun fact: I have a degree in civil engineering, MSc. degree in fluid dynamics and I'm a musician in the spare time.
 
