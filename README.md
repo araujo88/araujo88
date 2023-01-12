@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 💻 Backend developer
 
 - 🔭 I’m currently working on a lightweight webserver implementation in C++.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust 🦀.
 - 🤔 I’m looking for help with a lightweight chat hosted on the Tor network.
 - 💬  Ask me about C and Python.
 - ⚡ Fun fact: I have a degree in civil engineering, MSc. degree in fluid dynamics and I'm a musician in the spare time.
