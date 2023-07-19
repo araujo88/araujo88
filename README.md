@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### 💻 Backend developer
 
-- 🦀 I’m currently learning Rust.
-- 💬  Ask me about C, C++ or Python.
-- ⚡ Fun fact: I have a degree in civil engineering, MSc. degree in fluid dynamics and I'm a musician in the spare time.
+- I’m currently learning embedded systems.
+- 💬  Ask me about C, C++, Go or Python.
+- ⚡ Fun fact: I have a degree in civil engineering, MSc. degree in fluid dynamics, play music in the spare time and have written a [book](https://www.amazon.com/Fragments-accelerating-reality-Leonardo-Araujo-ebook/dp/B0C6ZXQVH5)!
 
 <hr />
 
