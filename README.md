@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### 💻 Backend developer
 
-- I’m currently learning embedded systems.
-- 💬  Ask me about C, C++, Go or Python.
+- 🌱 I’m currently learning embedded systems.
+- 💬 Ask me about C, C++, Go or Python.
 - ⚡ Fun fact: I'm a civil engineer, MSc. in fluid dynamics, musician and have just written my first [book](https://www.amazon.com/Fragments-accelerating-reality-Leonardo-Araujo-ebook/dp/B0C6ZXQVH5)!
 
 <hr />
