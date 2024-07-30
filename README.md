@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💻 Backend developer
+### 💻 Software engineer
 
 - 🌱 I’m currently learning Haskell, Erlang and other functional programming stuff.
 - 💬 Ask me about C, C++, Go or Python.
