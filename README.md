@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <hr />
 
+<a href="https://gitroll.io/profile/uSD5UjXacPXg38X5dhADQNsbInRX2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uSD5UjXacPXg38X5dhADQNsbInRX2?theme=dark" alt="GitRoll Profile Badge"/></a>
+
 ### Stats
 
 <div>
