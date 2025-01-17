@@ -1,4 +1,4 @@
-## Hi there, I'm Leo 👋
+## Hi there! 👋
 
 <!--
 **araujo88/araujo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a civil engineer, MSc. in fluid dynamics, musician and have just written my first [book](https://www.amazon.com/Fragments-accelerating-reality-Leonardo-Araujo-ebook/dp/B0C6ZXQVH5)!
 
 <hr />
-
-<a href="https://gitroll.io/profile/uSD5UjXacPXg38X5dhADQNsbInRX2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uSD5UjXacPXg38X5dhADQNsbInRX2?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 ### Stats
 
