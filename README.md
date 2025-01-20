@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 💻 Software engineer
 
-- 🌱 I’m currently learning Haskell, Erlang and other functional programming stuff.
+- 🌱 I’m currently learning more about compilers and interpreters.
 - 💬 Ask me about C, C++, Go or Python.
 - ⚡ Fun fact: I'm a civil engineer, MSc. in fluid dynamics, musician and love learning new languages (currently tackling German and ancient Hebrew).
 
